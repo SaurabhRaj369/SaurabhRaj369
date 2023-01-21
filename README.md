@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaurabhRaj369
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Web development
 
 
 <!---
